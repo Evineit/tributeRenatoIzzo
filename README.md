@@ -1,2 +1,2 @@
 # Tribute page - Renato Izzo
-A Trbiute page about Renato Izzo.
+A Tribute page about Renato Izzo.
